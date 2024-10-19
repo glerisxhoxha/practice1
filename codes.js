@@ -6,3 +6,5 @@ if(i<5)
 else{
     console.log('No hello');
 }
+
+alert('STOP');
